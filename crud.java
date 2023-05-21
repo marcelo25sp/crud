@@ -2,7 +2,7 @@ package cursoJava;
 
 import java.util.Scanner;
 
-public class crud {
+public class Crud {
 
 	public static void main(String[] args) {
 		
